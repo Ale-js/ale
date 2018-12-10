@@ -20,3 +20,12 @@ Ale.js supports all browsers that are:
 - Firefox 3.5
 - Opera 10
 - Safari 3.1
+
+### Documentation
+To check out live examples and docs, visit alejs.org.
+
+### License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2018-present, Yingxuan (Bill) Dong
