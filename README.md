@@ -22,7 +22,7 @@ Ale.js supports all browsers that are:
 - Safari 3.1
 
 ### Documentation
-To check out live examples and docs, visit alejs.org.
+To check out live examples and docs, visit [alejs.org](http://www.alejs.org).
 
 ### License
 
