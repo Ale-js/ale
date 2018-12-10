@@ -1,5 +1,5 @@
 <p align='center'>
-   <img height='200px' src='https://github.com/Ale-js/alejs/blob/master/images/logo-small.png' alt='alejs-logo'>
+   <img height='200px' src='https://github.com/Ale-js/alejs/blob/master/images/logo.png' alt='alejs-logo'>
    <h3>Ale.js</h3>
   <hr>
 </p>
