@@ -2,7 +2,7 @@
    <img height='200px' src='https://github.com/Ale-js/alejs/blob/master/images/logo.png' alt='alejs-logo'>
 </p>
 <p align='center'>
-   ![Ale.js in NPM.](https://www.npmjs.com/package/alejs/)
+   <a href='https://www.npmjs.com/package/alejs'>Ale.js in NPM.</a>
 </p>
 <h1 align='center'>About Ale.js</h1>
 
