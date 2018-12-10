@@ -1,5 +1,5 @@
 <center>
-  <img alt='alejs-logo' height='250px' src='https://github.com/Ale-js/alejs/blob/master/images/logo.png'>
+  ![alejs-logo](https://github.com/Ale-js/alejs/blob/master/images/logo.png)
   ### Ale.js
   <hr>
 </center>
