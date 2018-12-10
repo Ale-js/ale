@@ -1,7 +1,7 @@
 <p align='center'>
    <img height='200px' src='https://github.com/Ale-js/alejs/blob/master/images/logo.png' alt='alejs-logo'>
 </p>
-<h2 align='center'>Ale.js</h2>
+<h1 align='center'>Ale.js</h1>
 
 ## Introduction
 
