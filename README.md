@@ -1,4 +1,8 @@
-<center>![alejs-logo](https://github.com/Ale-js/alejs/blob/master/images/logo-small.png)### Ale.js<hr></center>
+<p align='center'>
+   ![alejs-logo](https://github.com/Ale-js/alejs/blob/master/images/logo-small.png)
+   ### Ale.js
+  <hr>
+</p>
 
 Ale.js is a Flexible and fast JavaScript view framework.
 
