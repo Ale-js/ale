@@ -8,11 +8,13 @@
 
 ## Introduction
 
-Ale.js (Chinese meaning: 啤酒) is a framework only for user view operation. 
+Ale.js (Chinese: 啤酒) is a set of frameworks that operate only on the user’s view. It believes that everything is a component. Unlike other large frameworks, its core only focuses on the view layer and uses the State state stream to provide drivers for your complex pages. More importantly, it can help you get rid of the complex relationship between view and data, let you devote yourself to the processing of data, without considering any view-related content. Just like other MVC, MVVM, and MVP frameworks, but it can supports `IE8`.
 
-Unlike other large frameworks, Ale.js core library only focuses on view, which is not only easy to use, but also easy to integrate with third-party libraries or existing projects. 
+And most importantly, the flexible construction inside Ale.js can help you increase page flexibility, allowing you to do more with less code, such as we use React and Vue to implement a timer each. Refreshing every 1 second requires:
 
-After compression (non-g-zip), it has only about `11kb` file size, and its execution speed is extremely fast. More importantly, Ale. JS can help you quickly build flexible pages and drive your complex pages!
+Ale (22 lines of code)
+Vue (23 lines of code)
+React (30 lines of code)
 
 ### Browser Compatibility
 Ale.js supports all browsers that are:
