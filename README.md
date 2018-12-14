@@ -3,6 +3,7 @@
 </p>
 <p align='center'>
    <a href='https://www.npmjs.com/package/alejs'>Ale.js in NPM.</a>
+   <br>
    <a href='https://www.jsdelivr.com/package/npm/alejs'><img src='https://data.jsdelivr.com/v1/package/npm/alejs/badge'></a>
 </p>
 <h1 align='center'>About Ale.js</h1>
