@@ -16,7 +16,7 @@ It believes that everything is a component. Unlike other large frameworks, its c
 
 More importantly, it can help you get rid of the complex relationship between view and data, let you devote yourself to the processing of data, without considering any view-related content. Just like other MVC, MVVM, and MVP frameworks, but it can supports `IE8`.
 
-<img src='https://github.com/Ale-js/ale/blob/master/images/alejsState.png' alt='ale.js state' height='200px'>
+<img src='https://github.com/Ale-js/ale/blob/master/images/alejsState.png' alt='ale.js state' height='400px'>
 
 And most importantly, the flexible construction inside Ale.js can help you increase page flexibility, allowing you to do more with less code, such as we use React and Vue to implement a timer each. Refreshing every 1 second requires:
 
