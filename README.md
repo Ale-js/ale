@@ -10,19 +10,19 @@
 
 ## Introduction
 
-Ale.js (Chinese: 啤酒) is a set of frameworks that operate only on the user’s view.
+Ale (Chinese: 啤酒) is a set of progressive frameworks for building user interfaces in the form of components. It believes that everything is a component. Unlike other large frameworks, Ale only needs you to focus on the data and does not need to care about any content related to the view. When you update the data, any places in the view that use it will be updated.
 
-It believes that everything is a component. Unlike other large frameworks, its core only focuses on the view layer and uses the state stream to provide drivers for your complex pages. 
+<br>
 
-More importantly, it can help you get rid of the complex relationship between view and data, let you devote yourself to the processing of data, without considering any view-related content. Just like other MVC, MVVM, and MVP frameworks, but it can supports `IE8`.
+We combine some of the features of `Vue` and `React` in `Ale` to make it more convenient and lightweight. At the same time, the `diff` algorithm is also used in Ale (thanks to Ale's self-developed diff algorithm, which is only about 50 lines, extremely lightweight).
 
-<img src='https://github.com/Ale-js/ale/blob/master/images/alejsState.png' alt='ale.js state' height='400px'>
+<br>
 
-And most importantly, the flexible construction inside Ale.js can help you increase page flexibility, allowing you to do more with less code, such as we use React and Vue to implement a timer each. Refreshing every 1 second requires:
+At the same time, in Ale, you don't have to worry about anything about **performance**, because Ale is compressed (non-g-zip) only about 7kb in size, and the execution speed is also close to **3** times that of Vue and React!
 
-Ale (22 lines of code)
-Vue (23 lines of code)
-React (30 lines of code)
+<br>
+
+If you are already an experienced front-end developer and want to know the specific differences between Ale and other libraries/frames, check out [Compare other frameworks](http://www.alejs.org/2018/12/01/Comparison).
 
 ### Browser Compatibility
 Ale.js supports all browsers that are:
