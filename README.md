@@ -25,14 +25,7 @@ At the same time, in Ale, you don't have to worry about anything about **perform
 If you are already an experienced front-end developer and want to know the specific differences between Ale and other libraries/frames, check out [Compare other frameworks](http://www.alejs.org/2018/12/01/Comparison).
 
 ### Browser Compatibility
-Ale.js supports all browsers that are:
-(Minimum version)
-
-- IE 8
-- Chrome 4
-- Firefox 3.5
-- Opera 10
-- Safari 3.1
+Ale does not support IE8 and below because Ale uses ECMAScript 5 features that IE8 cannot simulate. But it supports all ECMAScript 5 compliant browsers.
 
 ### Ecosystem
 QQ group: (如果你来自中国，那么你可以加入我们的官方qq群)
