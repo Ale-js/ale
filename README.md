@@ -26,7 +26,7 @@ If you are already an experienced front-end developer and want to know the speci
 
 #### Quick Start
 ```javascript
-//一个简单的HelloWorld实例
+//A very simple demo
 Ale("helloworld", {
     template: "Hello World"
 })
