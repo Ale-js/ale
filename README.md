@@ -24,6 +24,18 @@ At the same time, in Ale, you don't have to worry about anything about **perform
 
 If you are already an experienced front-end developer and want to know the specific differences between Ale and other libraries/frames, check out [Compare other frameworks](https://www.alejs.org/2018/12/01/Comparison).
 
+#### Quick Start
+```javascript
+//一个简单的HelloWorld实例
+Ale("helloworld", {
+    template: "Hello World"
+})
+
+Ale.render("helloworld", {
+    el: "#app"
+})
+```
+
 ### Browser Compatibility
 Ale does not support IE8 and below because Ale uses ECMAScript 5 features that IE8 cannot simulate. But it supports all ECMAScript 5 compliant browsers.
 
