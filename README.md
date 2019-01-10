@@ -22,7 +22,7 @@ At the same time, in Ale, you don't have to worry about anything about **perform
 
 <br>
 
-If you are already an experienced front-end developer and want to know the specific differences between Ale and other libraries/frames, check out [Compare other frameworks](https://www.alejs.org/2018/12/01/Comparison).
+If you are already an experienced front-end developer and want to know the specific differences between Ale and other libraries/frames, check out [Compare other frameworks](https://www.alejs.org/guide/v1/Comparison/).
 
 #### Quick Start
 ```javascript
