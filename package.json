@@ -4,7 +4,7 @@
   "description": "a Flexible and fast JavaScript view framework.",
   "main": "ale.min.js",
   "script": {
-    "build": "ava --verbose"
+    "test": "ava --verbose"
   },
   "keywords": [
     "react",
