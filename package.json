@@ -1,0 +1,23 @@
+{
+  "name": "alejs",
+  "version": "1.1.1",
+  "description": "a Flexible and fast JavaScript view framework.",
+  "main": "ale.min.js",
+  "scripts": {
+    "test": "nyc ava"
+  },
+  "keywords": [
+    "react",
+    "mvvm",
+    "mvc",
+    "diff",
+    "angular",
+    "vue",
+    "alejs",
+    "ale"
+  ],
+  "readme": "What is Ale.js?",
+  "readmeFilename": "README.md",
+  "author": "Bill Dong",
+  "license": "MIT"
+}
