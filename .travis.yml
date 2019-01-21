@@ -13,7 +13,7 @@ install:
 before_script:
 
 script:
-  - npm run build
+  - npm run test
 
 branches:
   only:
