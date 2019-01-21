@@ -2,10 +2,10 @@
    <img height='200px' src='https://github.com/Ale-js/alejs/blob/master/images/logo.png' alt='alejs-logo'>
 </p>
 <p align='center'>
+   <img src='https://travis-ci.org/Ale-js/ale.svg?branch=master'>
    <img src='https://img.shields.io/github/downloads/Ale-js/ale/total.svg'>
    <img src='https://img.shields.io/github/license/Ale-js/ale.svg'>
    <img src='https://img.shields.io/github/release/Ale-js/ale.svg'>
-   <img src='https://travis-ci.org/Ale-js/ale.svg?branch=master'>
    <a href='https://gitter.im/ale-js/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link'><img src='https://badges.gitter.im/JoinChat.svg'></a>
 </p>
 <h1 align='center'>About Ale.js</h1>
